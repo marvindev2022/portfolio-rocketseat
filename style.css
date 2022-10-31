@@ -26,7 +26,6 @@ ul {
 }
 .ul {
   padding-left: 15%;
-  
 }
 h1 {
   font-size: 23px;
@@ -37,7 +36,7 @@ h6 {
   font-size: 12px;
 }
 body {
-  /* display: flex; */
+  display: flex;
   padding: 5%;
   width: 1440px;
   height: 1767px;
@@ -187,8 +186,7 @@ strong {
 p {
   font-size: 20px;
 }
-footer {
-  
-  border: 2px solid #00ff00;
 
+footer {
+  margin-top: 170vh;
 }
